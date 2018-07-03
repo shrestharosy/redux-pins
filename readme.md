@@ -1,6 +1,7 @@
 # Learn Redux
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+A simple React + Redux implementation. Check out the original tutorial from  @wesbos 
+[https://learnredux.com/](https://learnredux.com/).
 
 ## Running
 
